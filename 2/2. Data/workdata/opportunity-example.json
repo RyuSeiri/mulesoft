@@ -1,0 +1,11 @@
+{
+  "Id": "0061000001M3z1RAAR	",
+  "Name": "United Oil SLA Opp1",
+  "Amount": 50000,
+  "StageName": "Prospecting",
+  "Type": "ew Customer",
+  "LeadSource": "Partner",
+  "ForecastCategoryName": "Pipeline",
+  "Probability": 60,
+  "CloseDate": "2023-04-28"
+}

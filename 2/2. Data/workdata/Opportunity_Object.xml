@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+  <row>
+    <Account>
+      <Id/>
+      <type>Account</type>
+      <Name>GenePoint</Name>
+    </Account>
+    <Type>Existing Customer - Upgrade</Type>
+    <LeadSource/>
+    <StageName>Prospecting</StageName>
+    <Amount>1.3167E8</Amount>
+    <Probability>10.0</Probability>
+    <Id>0061000001M3z1RAAR</Id>
+    <type>Opportunity</type>
+    <ForecastCategoryName>Commit</ForecastCategoryName>
+    <CloseDate>2023-04-28</CloseDate>
+    <Name>20230428_opp1</Name>
+  </row>
+</data>
